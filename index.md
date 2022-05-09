@@ -23,7 +23,7 @@
 
 ![Image](https://i.ibb.co/ByKxQpp/Screen-Shot-2022-05-08-at-2-49-59-PM.png)
 
-* This shows I was able to commit and push changes to a github repository in my ieng6 account. In this example I simply added a file called hi.md to the repository. [Link to commit](https://github.com/SathyaVen/markdown-parser/commit/0907a07d1b8c34ee26d35df558354441b7a795dc)
+* This shows I was able to commit and push changes to a github repository in my ieng6 account. In this example, I simply added a file called hi.md to the repository. [Link to commit](https://github.com/SathyaVen/markdown-parser/commit/0907a07d1b8c34ee26d35df558354441b7a795dc)
 
 ## Copy Whole Directories with `scp -r`
 
