@@ -7,7 +7,7 @@
 
 * The above image shows the command `ssh sven` being run. "sven" is the alias I set in the config file.
 
-![Image](https://www.linkpicture.com/view.php?img=LPic6281925caee761636616545)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-05-15-at-4.48.43-PM.png)](https://www.linkpicture.com/view.php?img=LPic6281925caee761636616545)
 
 * As you can see above, I created a random file, and used the `scp` command to copy it over to ieng6.
 
